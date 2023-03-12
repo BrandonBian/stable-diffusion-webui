@@ -9,7 +9,7 @@ A browser interface based on Gradio library for Stable Diffusion.
 - [Customized Prompt Generation](https://lunarmimi.net/freebies/novelai-anime-girl-prompt-guide)
 ```
 - In settings, change "Clip skip" to 2
-- Set "COMMANDLINE_ARGS= --no-half-vae" in file "webui-user.bat"
+- Set "COMMANDLINE_ARGS=--no-half-vae" in file "webui-user.bat"
 ```
 
 ## Features
