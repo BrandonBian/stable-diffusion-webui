@@ -3,6 +3,15 @@ A browser interface based on Gradio library for Stable Diffusion.
 
 ![](screenshot.png)
 
+## New - Resources for Anime diffusion
+- Using [Anything-V4.0](https://huggingface.co/andite/anything-v4.0): download ".ckpt" and ".vae.pt" files, put into "./models/Stable-diffusion"
+- [Popular Prompts](https://www.ptsearch.info/home/)
+- [Customized Prompt Generation](https://lunarmimi.net/freebies/novelai-anime-girl-prompt-guide)
+```
+- In settings, change "Clip skip" to 2
+- Set "COMMANDLINE_ARGS= --no-half-vae" in file "webui-user.bat"
+```
+
 ## Features
 [Detailed feature showcase with images](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features):
 - Original txt2img and img2img modes
